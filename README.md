@@ -3,4 +3,4 @@ A passenger counter app by which anyone can count a certain number increments an
 
 preview - 
 
-![](images/preview.png)
+![Demo](images/preview.png)
